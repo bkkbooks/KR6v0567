@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR6v0567/tx/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 正信會會員格言執持正法攝諸長幼謂深信佛教之正法以攝化若長若幼之群眾也此為總句本會會員皆應本此以行而總務部修持部部員尤須身體力行之一切治生諧偶雖獲俗利不以喜悅謂經營實業治理生產而能輕財樂施也本會會員皆所應行遊諸四衢饒益眾生謂作社會教育家公益家慈善家也本會慈濟團宣化團團員所應行入治正法救護一切謂政治家法律家軍事家等當存救世護民之心也本會護法社社員所應行入講論處導以大眾謂入諸學術研究院研究館講演會討論會等皆以大乘佛學融貫之也本會研究社社員應行入諸學堂誘開童蒙謂開辦小中大學教育青年啟發佛慧也本會宣化團團員所應行見正信一卷一期
+  hash: sha256:e05d39443818aca75f7002a90ec43c350644d2dd597a84efeeae52143695286f
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0567_TX_035-juan-start, juan_n: '035'}
+  - {type: 其他, offset: 0, content: 信眾學行, id: KR6v0567_TX_035-mulu-1, level: '1'}
+  - {type: 其他, offset: 0, content: 正信會會員格言, id: KR6v0567_TX_035-mulu-2, level: '2'}
+metadata:
+  title: 太虛大師全書．第十編　學行
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX18/TX18n0010.xml
+    old_id: TX18n0010
+hash: sha256:01352cd6d707a7aebb524826312254c37f62bea8e2a592919ab51ff5514b0203

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6v0567/tx/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勗諸生要習頭陀的勤勞苦行體定煉成金剛的勇健強力要從嚴謹的自律言動德戒實現和合的僧團生活要明貫通內外的理趣智慧能敏適應時機的事功顏習齋譏讀書人為林間咳嗽病獮猴朽莫自振書為諸生勗太虛卅五十四
+  hash: sha256:a955c0399bd56f8ba3673ce3e1b63f0ac9b4ce18faf020e3e4afee8a9663f41f
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0567_TX_019-juan-start, juan_n: 019}
+  - {type: 其他, offset: 0, content: 勗諸生, id: KR6v0567_TX_019-mulu-1, level: '2'}
+metadata:
+  title: 太虛大師全書．第十編　學行
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX18/TX18n0010.xml
+    old_id: TX18n0010
+hash: sha256:ee71247b495ac2c237f2fc0e83a17ddb652025729776355da308948fee0f677b

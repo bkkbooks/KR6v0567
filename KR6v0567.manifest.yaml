@@ -1,0 +1,1934 @@
+canonical_identifier: bkk:krp/KR6v0567/v1
+canonical_location: https://kanripo.org/bkk/KR6v0567/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 太虛大師全書．第十編　學行
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX18/TX18n0010.xml
+    old_id: TX18n0010
+  edition:
+    short: bkk
+editions:
+- short: 太虛
+  label: 太虛
+  source_xml_id: wit.orig
+- short: TX
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0567_001.yaml, hash: 'sha256:bafb6a13325ef6b486c281f462476cedc7f08a767a29697bb0d09f59f610f375'}
+  - {seq: 2, filename: KR6v0567_002.yaml, hash: 'sha256:c5ceb631efb9e90199500a98485139fbceb69c3f6b24de087d443b5cc64c5eed'}
+  - {seq: 3, filename: KR6v0567_003.yaml, hash: 'sha256:a267339d3aaeb79a89297473f6fd8429a67a80620b16a1f47e830eb7257fd0f5'}
+  - {seq: 4, filename: KR6v0567_004.yaml, hash: 'sha256:481343d10b3a93e8c798402801878b5b2a3cdc34c6e99c3155b46b920ed484ad'}
+  - {seq: 5, filename: KR6v0567_005.yaml, hash: 'sha256:47ac9ffad4f1d1a2e09125484d1c333cf68bc5bb1fe69f90cd074f40deef26d5'}
+  - {seq: 6, filename: KR6v0567_006.yaml, hash: 'sha256:8f3d64bf4ae2f2a859a79cd054904e361f905e730e818f88bd1278bef37f13d2'}
+  - {seq: 7, filename: KR6v0567_007.yaml, hash: 'sha256:d35a144a8a35f2eae1ab3e6bcbaf1f7d906467a9f5aec4de372ff484ed674f46'}
+  - {seq: 8, filename: KR6v0567_008.yaml, hash: 'sha256:219b43f5ed8b88110fc88b4b93253032e19871f0de3f28054445d3b73ed99515'}
+  - {seq: 9, filename: KR6v0567_009.yaml, hash: 'sha256:120237140f437cda96f90cd33516f8897c04de0a1d1e79d73daf779b71c026b6'}
+  - {seq: 10, filename: KR6v0567_010.yaml, hash: 'sha256:c19adc4fafa0868bce2fa7d9ecf21204a1775907bda29c13da35009af7958ff5'}
+  - {seq: 11, filename: KR6v0567_011.yaml, hash: 'sha256:04b75d828be1d6ff809e20be95f90b3803be84c5d2c479da59d92508f2939c36'}
+  - {seq: 12, filename: KR6v0567_012.yaml, hash: 'sha256:b42b805da3a96f09652c7db66f6601ed99acb467265d7f01cc36daaa06e4e5d2'}
+  - {seq: 13, filename: KR6v0567_013.yaml, hash: 'sha256:ed2fb3c58787fd3191b67ae7ee00baad2c2042dc47803b2d0c3b16601ad28513'}
+  - {seq: 14, filename: KR6v0567_014.yaml, hash: 'sha256:4aba9eaff5e44329ec3131bfbe7dd6b453531154391817713b52bddcd8722e5f'}
+  - {seq: 15, filename: KR6v0567_015.yaml, hash: 'sha256:3f388014570bcda62ded6b80bbfb0033419114880fa457108c6133d4e43434bb'}
+  - {seq: 16, filename: KR6v0567_016.yaml, hash: 'sha256:c1542903252c23c7753372034f5bf231cacecfb607123ada9c3ab92073f0a74a'}
+  - {seq: 17, filename: KR6v0567_017.yaml, hash: 'sha256:03fb66d8e26c7269b3131fd3a3b21264ae051ca5e706373219b71813924f38d0'}
+  - {seq: 18, filename: KR6v0567_018.yaml, hash: 'sha256:4f9ef0c05d38f845604d8b11a1809b74bc1e0db48546ba2964523562961a3b18'}
+  - {seq: 19, filename: KR6v0567_019.yaml, hash: 'sha256:eb04bce7b4890be61a602a129bf5b824f8498aafbbd75b38e55fec1d9c4dc086'}
+  - {seq: 20, filename: KR6v0567_020.yaml, hash: 'sha256:5d3c89926c46f99bfa86b692df006e0acefc7803748d98990a41e67d2b17c090'}
+  - {seq: 21, filename: KR6v0567_021.yaml, hash: 'sha256:70248ecc78d2c15fbf7052fd06489fc40391153a9baaa90b69fe94d34c1af35d'}
+  - {seq: 22, filename: KR6v0567_022.yaml, hash: 'sha256:b25b13b5579000ed3d62dbb95f71c01223c1a9f63e1746a3bbdfe306850aee98'}
+  - {seq: 23, filename: KR6v0567_023.yaml, hash: 'sha256:1b3eb3e9d1204d4f33b466cd208507ad3619e91114ec868008679a70e5617d4d'}
+  - {seq: 24, filename: KR6v0567_024.yaml, hash: 'sha256:d9315af8e2ba9b3d4e1944e08c86ad73243125fb004d2ae2e7961d5bf21d585f'}
+  - {seq: 25, filename: KR6v0567_025.yaml, hash: 'sha256:bf14f3631390a0cc859c0390956e6de7cf03e143ca15f7faa4cf9520350dde99'}
+  - {seq: 26, filename: KR6v0567_026.yaml, hash: 'sha256:3e4c8b44f24383ed23b65d4a9f67d1a6d0410f242b1f880bcc5c1493dfe7179b'}
+  - {seq: 27, filename: KR6v0567_027.yaml, hash: 'sha256:4611451e4e76cebebbac410911cf37e9f047808b29f84366bbfac38baf4d0427'}
+  - {seq: 28, filename: KR6v0567_028.yaml, hash: 'sha256:4ea12ce94e9e51a2406720df7ea8b8e544d4d097bf665ea1d106f1da81b80485'}
+  - {seq: 29, filename: KR6v0567_029.yaml, hash: 'sha256:57994cabbd87e6b1a35322027494b6c263abb89cf4add8a658f04545265bd901'}
+  - {seq: 30, filename: KR6v0567_030.yaml, hash: 'sha256:ae0f955098006b71d387c3bfb592a8d7d619bd5619174f72c6df0ae109613c8f'}
+  - {seq: 31, filename: KR6v0567_031.yaml, hash: 'sha256:245a3c7c45e2f57dc4fa786d09d2377a50b448e11d45af60bd7b357815d89a0b'}
+  - {seq: 32, filename: KR6v0567_032.yaml, hash: 'sha256:b427e89fc553a0252a914a86ae20b3f86567519d197c4934c5ea3bcbeccd2f4d'}
+  - {seq: 33, filename: KR6v0567_033.yaml, hash: 'sha256:80c72c4423f291aa7680aa589b51b68813b96ce32d79fe6cff24da4276948a43'}
+  - {seq: 34, filename: KR6v0567_034.yaml, hash: 'sha256:1400955bd53b0fc44c5d33ca021cdbfcc2a056fc3bc16debc25bde66d2fafc67'}
+  - {seq: 35, filename: KR6v0567_035.yaml, hash: 'sha256:19b5119a22e912c4ae7cd1bc7f3da2cecef127a58d400e88331a8402173f78e5'}
+  - {seq: 36, filename: KR6v0567_036.yaml, hash: 'sha256:56948c031ecca9c957b042218437367bb309946a2dd2c6c4e6d1514682a5cd90'}
+  - {seq: 37, filename: KR6v0567_037.yaml, hash: 'sha256:40d2eaa3dc9cdda1b550c8fcdf8fb18f761ca307fb877a8f07c8de85b048c30f'}
+  - {seq: 38, filename: KR6v0567_038.yaml, hash: 'sha256:49297e57cf454b0ff8e24343fdc04fd388b65a57a2d838a3b2d7770f0f52c531'}
+  - {seq: 39, filename: KR6v0567_039.yaml, hash: 'sha256:41f256eb7eefb26116ee8c94b6f3582aa1dd054ba085d72619fbeddab4aa4cd7'}
+  - {seq: 40, filename: KR6v0567_040.yaml, hash: 'sha256:8909745e090ad888abd968ec1f0484c714679c07dad292ae965cc4a640f29ce9'}
+  - {seq: 41, filename: KR6v0567_041.yaml, hash: 'sha256:f8121405408c8ef62b7694fd3d8494d66009b0d53a58497b6ba5f77b7a0674b9'}
+  - {seq: 42, filename: KR6v0567_042.yaml, hash: 'sha256:3c2b19d1daaf276170dac1390c9e6066e7e6ef27febe0a8fad4a27e28d488efb'}
+  - {seq: 43, filename: KR6v0567_043.yaml, hash: 'sha256:d7bad12090101cc09dcf7a45521edc40f8671c54113903636041d12774a563a7'}
+  - {seq: 44, filename: KR6v0567_044.yaml, hash: 'sha256:2cac96b8b79c5ebf32b6e7cf5047aa0b3cba3da01e0490ba75dc8dc64448782d'}
+  - {seq: 45, filename: KR6v0567_045.yaml, hash: 'sha256:7726215127968b258350c53cd69bd2fdddc8763335bf01f625fbcac025e940fd'}
+  - {seq: 46, filename: KR6v0567_046.yaml, hash: 'sha256:2f2c7bbf0f1c2e8203640ec592f278d9cebbe8d2d03be9313375335c0ade7277'}
+  - {seq: 47, filename: KR6v0567_047.yaml, hash: 'sha256:d593b53c1c0cd6d7f58ed131cad54014e0249f1f1ec649d2ca6c03f605f3fc44'}
+  - {seq: 48, filename: KR6v0567_048.yaml, hash: 'sha256:cdef7c3197207333be369c1988fa724542abba9b05396cc003d2a6a2d6f379d3'}
+  - {seq: 49, filename: KR6v0567_049.yaml, hash: 'sha256:3b247d4902d2acebbcda1a7b510ccacfa6843790bae236b2d3cf60cfbb767c33'}
+  - {seq: 50, filename: KR6v0567_050.yaml, hash: 'sha256:67b371d1ec64736c3d1f8b651f34d1cc4da3e0e6cf747eb3968fb62c937e0838'}
+  - {seq: 51, filename: KR6v0567_051.yaml, hash: 'sha256:a08fb890aa306486d055ae0cd5d209bdba79c79f82c0b128e2b85fd069ecafbe'}
+  - {seq: 52, filename: KR6v0567_052.yaml, hash: 'sha256:65afab63448a52012d6cd03922bea25883541842f01c751cc577d9226a10062f'}
+  - {seq: 53, filename: KR6v0567_053.yaml, hash: 'sha256:6e5ad9fc41e4986d83c19aeb278db1d9d7fa89c2d90be0bed96f71939f933904'}
+  - {seq: 54, filename: KR6v0567_054.yaml, hash: 'sha256:7ec8b85e21a7b465589032464a01bc4aa051e897a94c10a69db4cf60e996b261'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0567_001.markers.yaml, hash: 'sha256:b3b6250e1650eebb836f324c02e3ed41932fbf465111646aaa5e357ada982716'}
+  - {seq: 2, role: markers, filename: assets/KR6v0567_002.markers.yaml, hash: 'sha256:d9c241d96de81f6fb198e919d8fbacdbaef2776afdd671ba6fc1d2650c3094b9'}
+  - {seq: 3, role: markers, filename: assets/KR6v0567_003.markers.yaml, hash: 'sha256:0e676b6e761c042813b8e1c6739007e273de751e94b384a8bffedac3ac4f7137'}
+  - {seq: 4, role: markers, filename: assets/KR6v0567_004.markers.yaml, hash: 'sha256:7b6532ba6e2fc956ebf248a3233a00c6e5716dd71173a4647a31f6cffd0b986f'}
+  - {seq: 5, role: markers, filename: assets/KR6v0567_005.markers.yaml, hash: 'sha256:49efcc8847a50558dea3465547845c9d34e64faea342ed210575fa6cb492e902'}
+  - {seq: 6, role: markers, filename: assets/KR6v0567_006.markers.yaml, hash: 'sha256:220f3c7f35c32cddaf436319e34fc42447ce0e01b63659ea98c09cfe84323852'}
+  - {seq: 7, role: markers, filename: assets/KR6v0567_007.markers.yaml, hash: 'sha256:d1491e6cf21482c70f66d315894d7a00443cf4b40355022541cdc48a25f10f19'}
+  - {seq: 8, role: markers, filename: assets/KR6v0567_008.markers.yaml, hash: 'sha256:9adffc4b6c7b5d7be8e124cea062fc7453ce4a70a6108b0ccbf02d5f3c3080c5'}
+  - {seq: 9, role: markers, filename: assets/KR6v0567_009.markers.yaml, hash: 'sha256:0aa03f57c569254b67372a826b56b72c43bb898e4e5eb41de6e065f0e0e524ac'}
+  - {seq: 10, role: markers, filename: assets/KR6v0567_010.markers.yaml, hash: 'sha256:8918a3a3e4a8b15656d77a385fbebd170a26a665e08b72751f6a7c5492015cb0'}
+  - {seq: 11, role: markers, filename: assets/KR6v0567_011.markers.yaml, hash: 'sha256:0988ef293323cf224e107fe0765ba362b46c24027e15590d7650b03535dfc692'}
+  - {seq: 12, role: markers, filename: assets/KR6v0567_012.markers.yaml, hash: 'sha256:76756fc3a73da84a4216ffce1ab9d9ac8b880dfccf144cc3719467782d6be368'}
+  - {seq: 13, role: markers, filename: assets/KR6v0567_013.markers.yaml, hash: 'sha256:22df92fcec4f0c03d0c11f19b3c43cf81521752a8c47aaa08660297f2c9465c1'}
+  - {seq: 14, role: markers, filename: assets/KR6v0567_014.markers.yaml, hash: 'sha256:3c7ae2182e158847c7a2da7bc7362bd575b19fb669f1b245461517eda5f4f62d'}
+  - {seq: 15, role: markers, filename: assets/KR6v0567_015.markers.yaml, hash: 'sha256:34d8879664cab02ca9c495adaf60be0718f91bd1a6993cc6a1d0251df799f7bf'}
+  - {seq: 16, role: markers, filename: assets/KR6v0567_016.markers.yaml, hash: 'sha256:911ecac79199e85c6296eedea6a7b2301db48c2f67989afccc02db194b83124a'}
+  - {seq: 17, role: markers, filename: assets/KR6v0567_017.markers.yaml, hash: 'sha256:e37f151a0b053430a36a000ade19006fa750ed27e932a8edd81dec5cf205e356'}
+  - {seq: 18, role: markers, filename: assets/KR6v0567_018.markers.yaml, hash: 'sha256:de8a9e5e88ed72edfc4c0379b3b824a758a4a0c58a7009c19f0a09d5fb11d0da'}
+  - {seq: 19, role: markers, filename: assets/KR6v0567_019.markers.yaml, hash: 'sha256:e6117a0b1eb6361d15e845aad7560109c0e42dea63718e5d10f5a8367f715a76'}
+  - {seq: 20, role: markers, filename: assets/KR6v0567_020.markers.yaml, hash: 'sha256:f2b604f2742c01acf0db4d0058b849c8989ca450761f7ffa7130db992a89f11a'}
+  - {seq: 21, role: markers, filename: assets/KR6v0567_021.markers.yaml, hash: 'sha256:9192e6cdc4e9ec4340c571a01da1e352bf33bfddf54a756eb612a916ba6d0f27'}
+  - {seq: 22, role: markers, filename: assets/KR6v0567_022.markers.yaml, hash: 'sha256:acd92d9b35fa15d0098e163ac27d2a237e4faed6374c179d73d021c10194d9d7'}
+  - {seq: 23, role: markers, filename: assets/KR6v0567_023.markers.yaml, hash: 'sha256:d76a1c8a56e6a9171b9f2195f244833298e72be0aea729dd37a561630ac0f356'}
+  - {seq: 24, role: markers, filename: assets/KR6v0567_024.markers.yaml, hash: 'sha256:43181fc345cd0a850b89b66de274efbe55f63912fd284821446df3eb6b0d8a1f'}
+  - {seq: 25, role: markers, filename: assets/KR6v0567_025.markers.yaml, hash: 'sha256:d5b30d799b8fd8fc929e27106340b729a360606307745c74aa9d59328ac141b1'}
+  - {seq: 26, role: markers, filename: assets/KR6v0567_026.markers.yaml, hash: 'sha256:3e2c6b95f967c25e0f441d137b5424809bc4342374d988b86840390198613463'}
+  - {seq: 27, role: markers, filename: assets/KR6v0567_027.markers.yaml, hash: 'sha256:1d1ebd762a50e593c10eae742f00d5c600a7d9b134d8a52027bbf85cb3194aaf'}
+  - {seq: 28, role: markers, filename: assets/KR6v0567_028.markers.yaml, hash: 'sha256:1d101b712825038d5111fab39ba4db3166d2efc60e61508407a2ab1c9f9cfee1'}
+  - {seq: 29, role: markers, filename: assets/KR6v0567_029.markers.yaml, hash: 'sha256:624ffa0a92c9cae755444ab389f1c0a8b1d104c76fefbddd7cc68ce1447ffbd0'}
+  - {seq: 30, role: markers, filename: assets/KR6v0567_030.markers.yaml, hash: 'sha256:ea2f414a3cbe368d29cc29519171daee87a49ed89aaa7fd02ae8e93d17b509d3'}
+  - {seq: 31, role: markers, filename: assets/KR6v0567_031.markers.yaml, hash: 'sha256:b0aba0112e244a4adc5ac64c70ce6b4b0c0c53c3d0199419b90da7bed23dcf8f'}
+  - {seq: 32, role: markers, filename: assets/KR6v0567_032.markers.yaml, hash: 'sha256:35665578f7548d59716f2d5e8a6a3299da9d08502271ec5e0aa142c85c57b05b'}
+  - {seq: 33, role: markers, filename: assets/KR6v0567_033.markers.yaml, hash: 'sha256:22d1f4eafc8e7b8591763fb05e5398786074d18ead166efffbcd440a2ae765d0'}
+  - {seq: 34, role: markers, filename: assets/KR6v0567_034.markers.yaml, hash: 'sha256:904c51a9f3c5386e1ae39b0a3b99581b2de210c7260f9410d556245eb355aef5'}
+  - {seq: 35, role: markers, filename: assets/KR6v0567_035.markers.yaml, hash: 'sha256:8cf52087b4dea5f515c65a9e5acbeab63f26ccfe345e5ec21e909b6e2478064a'}
+  - {seq: 36, role: markers, filename: assets/KR6v0567_036.markers.yaml, hash: 'sha256:50b3b2729200db58633d170da1a97d99145677dff328c526f45051ede46592d4'}
+  - {seq: 37, role: markers, filename: assets/KR6v0567_037.markers.yaml, hash: 'sha256:629247f9d36724032758e08ad65167f0b42dbddf023e3609fe4ea1628b77a9ba'}
+  - {seq: 38, role: markers, filename: assets/KR6v0567_038.markers.yaml, hash: 'sha256:43f055fb463b612c3bdbfac553284d6f9deecba1be34ddb6a2eb57ddf7328d0a'}
+  - {seq: 39, role: markers, filename: assets/KR6v0567_039.markers.yaml, hash: 'sha256:ab27c69d6febb87d5160860436f3b447ee0d654e166e282a29ec5c746b15c6ac'}
+  - {seq: 40, role: markers, filename: assets/KR6v0567_040.markers.yaml, hash: 'sha256:7ebc0e9d12d253414530d62fc249cadc93d4e03fac61a8c284bbc68f775f9d88'}
+  - {seq: 41, role: markers, filename: assets/KR6v0567_041.markers.yaml, hash: 'sha256:98a1abc1282423f025b3c1987d69ebf307980dff5753ee251c55dda9e870c0d8'}
+  - {seq: 42, role: markers, filename: assets/KR6v0567_042.markers.yaml, hash: 'sha256:55b0cf079345929a49a833f7b0fa3bd7f3745cd9c02be20a8d7b5b6cb0e0723c'}
+  - {seq: 43, role: markers, filename: assets/KR6v0567_043.markers.yaml, hash: 'sha256:49f438d496690bca7396d1849f780bb337e6e762cd734838a65550efeaf8bfd3'}
+  - {seq: 44, role: markers, filename: assets/KR6v0567_044.markers.yaml, hash: 'sha256:bc826aecd733b10bc9f65c310f294958f24992ad540e46359d7af7b2684d59e9'}
+  - {seq: 45, role: markers, filename: assets/KR6v0567_045.markers.yaml, hash: 'sha256:c5ab15900421f6acdd7198ad546200a6e5e8babcafce50036424b255e35d6380'}
+  - {seq: 46, role: markers, filename: assets/KR6v0567_046.markers.yaml, hash: 'sha256:dd844a3ec36c4c20eea4d185f66185b82e7f3090a2204635df0d9dc6892cc16c'}
+  - {seq: 47, role: markers, filename: assets/KR6v0567_047.markers.yaml, hash: 'sha256:bd5a1cbfefc3557660a6f71cbb6fad2702e73fb1f5dc9cde2f80a1cb2f0f6917'}
+  - {seq: 48, role: markers, filename: assets/KR6v0567_048.markers.yaml, hash: 'sha256:6b286afb66421eaa06f538e12cbbfa03c84f5e9429af1cf42fc4461fca4ea058'}
+  - {seq: 49, role: markers, filename: assets/KR6v0567_049.markers.yaml, hash: 'sha256:4faf2fb2d68736a02d393b421e59e4be1e130ddce4d3e6cabab4fe786488e141'}
+  - {seq: 50, role: markers, filename: assets/KR6v0567_050.markers.yaml, hash: 'sha256:0c0c19a1ce88802d4b459b47efe2b9e5315bea89a8907c414357fa9941c04940'}
+  - {seq: 51, role: markers, filename: assets/KR6v0567_051.markers.yaml, hash: 'sha256:962e320aee3967161cd227027d0c6e17330c67d4ef6c1536a662d9ba21ad9e71'}
+  - {seq: 52, role: markers, filename: assets/KR6v0567_052.markers.yaml, hash: 'sha256:0f4615b9e06f1a1f32711077e9f4c8b5999b843b734bd8d5af6c8d95131e2c93'}
+  - {seq: 53, role: markers, filename: assets/KR6v0567_053.markers.yaml, hash: 'sha256:bf8704c40d29b33c1a6bc8f3d2da4ebdc19f77163e334c10d91ae3edcd6768c9'}
+  - {seq: 54, role: markers, filename: assets/KR6v0567_054.markers.yaml, hash: 'sha256:a92eac8b718619c046d5893d02a9b2c0ab87c6aea78eac540467ee600635ad76'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0567_TX_001-juan-start
+    span:
+    - body
+    - 0
+    - 1732
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0567_TX_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 通論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0567_TX_001-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 建設適應時代之中國佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0567_TX_002-juan-start
+    span:
+    - body
+    - 0
+    - 2241
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0567_TX_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 改善人心的大乘漸教
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-juan-start
+    span:
+    - body
+    - 0
+    - 6681
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 從巴利語系佛教說到今菩薩行
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-2
+    span:
+    - body
+    - 26
+    - 26
+  label: 綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-3
+    span:
+    - body
+    - 381
+    - 381
+  label: 一　從史的觀點否定南傳北傳的名稱
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-4
+    span:
+    - body
+    - 510
+    - 510
+  label: 甲　阿育王的傳播佛教是向四方發展的
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-5
+    span:
+    - body
+    - 842
+    - 842
+  label: 乙　北傳的有小乘而南傳的也有大乘
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-6
+    span:
+    - body
+    - 1401
+    - 1401
+  label: 二　巴利語系佛教確立之推測
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-7
+    span:
+    - body
+    - 1480
+    - 1480
+  label: 甲　巴利語三藏編集者及其文體的遞邅
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-8
+    span:
+    - body
+    - 1745
+    - 1745
+  label: 乙　巴利語是印度大眾化通俗化的語言
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-9
+    span:
+    - body
+    - 1991
+    - 1991
+  label: 丙　梵語巴利語為印錫等地各種語文的主源
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-10
+    span:
+    - body
+    - 2147
+    - 2147
+  label: 丁　南方佛教由複雜轉變為單純的推測
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-11
+    span:
+    - body
+    - 2498
+    - 2498
+  label: 戊　印越等地也有巴利文佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-12
+    span:
+    - body
+    - 2924
+    - 2924
+  label: 三　錫緬暹佛教的近況
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-13
+    span:
+    - body
+    - 2933
+    - 2933
+  label: 甲　緬暹民眾以作僧為榮的風氣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-14
+    span:
+    - body
+    - 3342
+    - 3342
+  label: 乙　緬暹人民對僧教已漸疏遠的近因
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-15
+    span:
+    - body
+    - 3545
+    - 3545
+  label: 丙　六十年前的錫蘭佛教也是和現在中國佛教一樣的衰敗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-16
+    span:
+    - body
+    - 3884
+    - 3884
+  label: 丁　錫蘭的佛教從黑暗中走上光明之路
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-17
+    span:
+    - body
+    - 4608
+    - 4608
+  label: 四　行上判別的小乘大乘
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-18
+    span:
+    - body
+    - 4618
+    - 4618
+  label: 甲　中國是大乘教理小乘行的佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-19
+    span:
+    - body
+    - 5053
+    - 5053
+  label: 乙　錫蘭是小乘教理大乘行的佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-20
+    span:
+    - body
+    - 5465
+    - 5465
+  label: 丙　行的大小乘比教的大小乘為重要
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-21
+    span:
+    - body
+    - 5676
+    - 5676
+  label: 五　復興中國佛教應實踐今菩薩行
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-22
+    span:
+    - body
+    - 5690
+    - 5690
+  label: 甲　我們要實踐大乘教來幹今菩薩行
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-23
+    span:
+    - body
+    - 6030
+    - 6030
+  label: 乙　佛教不能與廣大的民眾疏遠
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0567_TX_003-mulu-24
+    span:
+    - body
+    - 6259
+    - 6259
+  label: 丙　修今菩薩行復興中國佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0567_TX_004-juan-start
+    span:
+    - body
+    - 0
+    - 2834
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0567_TX_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛之修學法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0567_TX_004-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0567_TX_004-mulu-3
+    span:
+    - body
+    - 639
+    - 639
+  label: 一　學佛之根本精神
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0567_TX_004-mulu-4
+    span:
+    - body
+    - 767
+    - 767
+  label: 甲　獨立與發展──自覺的
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0567_TX_004-mulu-5
+    span:
+    - body
+    - 979
+    - 979
+  label: （一）絕對獨立之特德
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0567_TX_004-mulu-6
+    span:
+    - body
+    - 1519
+    - 1519
+  label: （二）無限發展之自由
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0567_TX_004-mulu-7
+    span:
+    - body
+    - 2116
+    - 2116
+  label: 乙　和合與增上──覺他的
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0567_TX_004-mulu-8
+    span:
+    - body
+    - 2133
+    - 2133
+  label: （一）緣起性空之和合
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0567_TX_004-mulu-9
+    span:
+    - body
+    - 2413
+    - 2413
+  label: （二）相應互資之增上
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0567_TX_004-mulu-10
+    span:
+    - body
+    - 2806
+    - 2806
+  label: 二　佛學之特殊性質
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0567_TX_004-mulu-11
+    span:
+    - body
+    - 2814
+    - 2814
+  label: 三　修學之適當態度
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0567_TX_005-juan-start
+    span:
+    - body
+    - 0
+    - 2691
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0567_TX_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 研究佛學之目的及方法
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0567_TX_006-juan-start
+    span:
+    - body
+    - 0
+    - 1327
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0567_TX_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛學之宗旨和目的
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0567_TX_007-juan-start
+    span:
+    - body
+    - 0
+    - 655
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0567_TX_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 學佛者應知行之要事
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0567_TX_008-juan-start
+    span:
+    - body
+    - 0
+    - 1368
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0567_TX_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 僧眾學行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0567_TX_008-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 對於學人之訓辭
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0567_TX_009-juan-start
+    span:
+    - body
+    - 0
+    - 1425
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0567_TX_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 僧教育要建築在僧律儀之上
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0567_TX_010-juan-start
+    span:
+    - body
+    - 0
+    - 4420
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0567_TX_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 學僧修學綱宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0567_TX_011-juan-start
+    span:
+    - body
+    - 0
+    - 2381
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0567_TX_011-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 澹寧明敏
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0567_TX_012-juan-start
+    span:
+    - body
+    - 0
+    - 1912
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0567_TX_012-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 現代僧教育的危亡與佛教的前途
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0567_TX_013-juan-start
+    span:
+    - body
+    - 0
+    - 3160
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0567_TX_013-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 儉勤誠公
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0567_TX_013-mulu-2
+    span:
+    - body
+    - 4
+    - 4
+  label: 一　雪竇寺訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0567_TX_013-mulu-3
+    span:
+    - body
+    - 1033
+    - 1033
+  label: 二、大雄中學校訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0567_TX_014-juan-start
+    span:
+    - body
+    - 0
+    - 3170
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0567_TX_014-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 文武群己事器一致之教育
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0567_TX_014-mulu-2
+    span:
+    - body
+    - 22
+    - 22
+  label: 綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0567_TX_014-mulu-3
+    span:
+    - body
+    - 40
+    - 40
+  label: 一　文武一致
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0567_TX_014-mulu-4
+    span:
+    - body
+    - 1693
+    - 1693
+  label: 二　群己一致
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0567_TX_014-mulu-5
+    span:
+    - body
+    - 2706
+    - 2706
+  label: 三　器事一致
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0567_TX_014-mulu-6
+    span:
+    - body
+    - 2893
+    - 2893
+  label: 四　結勸
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6v0567_TX_015-juan-start
+    span:
+    - body
+    - 0
+    - 1659
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6v0567_TX_015-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 去私戒懶為公服勞
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6v0567_TX_016-juan-start
+    span:
+    - body
+    - 0
+    - 3230
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6v0567_TX_016-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 各人要在自己的崗位上努力
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0567_TX_017-juan-start
+    span:
+    - body
+    - 0
+    - 356
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0567_TX_017-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 漢藏教理院訓條
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6v0567_TX_018-juan-start
+    span:
+    - body
+    - 0
+    - 646
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6v0567_TX_018-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 對大師學生會籌備員之訓勉
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0567_TX_019-juan-start
+    span:
+    - body
+    - 0
+    - 93
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0567_TX_019-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 勗諸生
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6v0567_TX_020-juan-start
+    span:
+    - body
+    - 0
+    - 215
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6v0567_TX_020-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 律儀之研究
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6v0567_TX_021-juan-start
+    span:
+    - body
+    - 0
+    - 922
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6v0567_TX_021-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 修持與研究
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6v0567_TX_022-juan-start
+    span:
+    - body
+    - 0
+    - 426
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6v0567_TX_022-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 僧才訓練班訓詞
+  type: mulu
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6v0567_TX_023-juan-start
+    span:
+    - body
+    - 0
+    - 3089
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR6v0567_TX_023-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 中國現時學僧應取之態度
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6v0567_TX_024-juan-start
+    span:
+    - body
+    - 0
+    - 1192
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6v0567_TX_024-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 現代學僧畢業後的出路
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6v0567_TX_025-juan-start
+    span:
+    - body
+    - 0
+    - 701
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6v0567_TX_025-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 勉青年學僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6v0567_TX_026-juan-start
+    span:
+    - body
+    - 0
+    - 589
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6v0567_TX_026-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 知識青年僧的出路
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6v0567_TX_027-juan-start
+    span:
+    - body
+    - 0
+    - 1975
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6v0567_TX_027-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 存在、僧、僧羯磨
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6v0567_TX_028-juan-start
+    span:
+    - body
+    - 0
+    - 898
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6v0567_TX_028-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 人工與佛學之新僧化
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6v0567_TX_028-mulu-2
+    span:
+    - body
+    - 9
+    - 9
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6v0567_TX_028-mulu-3
+    span:
+    - body
+    - 406
+    - 406
+  label: 人工
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6v0567_TX_028-mulu-4
+    span:
+    - body
+    - 507
+    - 507
+  label: 佛學
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6v0567_TX_028-mulu-5
+    span:
+    - body
+    - 586
+    - 586
+  label: 人工與佛學之新僧化
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6v0567_TX_029-juan-start
+    span:
+    - body
+    - 0
+    - 3169
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6v0567_TX_029-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 峨山僧自治蒭議
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6v0567_TX_029-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: 綱要
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6v0567_TX_029-mulu-3
+    span:
+    - body
+    - 71
+    - 71
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6v0567_TX_029-mulu-4
+    span:
+    - body
+    - 342
+    - 342
+  label: 一　峨山甲僧自治會
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6v0567_TX_029-mulu-5
+    span:
+    - body
+    - 1828
+    - 1828
+  label: 二　僧自治之入手
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6v0567_TX_029-mulu-6
+    span:
+    - body
+    - 2117
+    - 2117
+  label: 三　合山僧徒應有時代之覺悟
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6v0567_TX_029-mulu-7
+    span:
+    - body
+    - 2286
+    - 2286
+  label: 四　地方官應當扶助與護持
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6v0567_TX_029-mulu-8
+    span:
+    - body
+    - 2450
+    - 2450
+  label: 五　結論
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6v0567_TX_029-mulu-9
+    span:
+    - body
+    - 2599
+    - 2599
+  label: （附）峨山甲僧自治會大綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6v0567_TX_030-juan-start
+    span:
+    - body
+    - 0
+    - 399
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6v0567_TX_030-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 僧尼應參加國民大會代表選舉
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6v0567_TX_031-juan-start
+    span:
+    - body
+    - 0
+    - 1199
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6v0567_TX_031-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 僧伽與政治
+  type: mulu
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6v0567_TX_032-juan-start
+    span:
+    - body
+    - 0
+    - 1290
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR6v0567_TX_032-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛教不要組政黨
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6v0567_TX_033-juan-start
+    span:
+    - body
+    - 0
+    - 700
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6v0567_TX_033-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛教寺僧的經濟建設
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6v0567_TX_034-juan-start
+    span:
+    - body
+    - 0
+    - 863
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6v0567_TX_034-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 由經濟理論說到僧寺經濟建設
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6v0567_TX_035-juan-start
+    span:
+    - body
+    - 0
+    - 261
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6v0567_TX_035-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 信眾學行
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6v0567_TX_035-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 正信會會員格言
+  type: mulu
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6v0567_TX_036-juan-start
+    span:
+    - body
+    - 0
+    - 2790
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR6v0567_TX_036-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 示慧綸皈士法言
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6v0567_TX_037-juan-start
+    span:
+    - body
+    - 0
+    - 4747
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6v0567_TX_037-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 居士學佛之程序
+  type: mulu
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR6v0567_TX_037-mulu-2
+    span:
+    - body
+    - 3733
+    - 3733
+  label: （附）居士學佛商榷
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6v0567_TX_038-juan-start
+    span:
+    - body
+    - 0
+    - 2855
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6v0567_TX_038-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 在家眾之學佛方法
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6v0567_TX_038-mulu-2
+    span:
+    - body
+    - 19
+    - 19
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6v0567_TX_038-mulu-3
+    span:
+    - body
+    - 526
+    - 526
+  label: 一　佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6v0567_TX_038-mulu-4
+    span:
+    - body
+    - 1103
+    - 1103
+  label: 二　佛之教法
+  type: mulu
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR6v0567_TX_038-mulu-5
+    span:
+    - body
+    - 2240
+    - 2240
+  label: 三　學之次第
+  type: mulu
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6v0567_TX_039-juan-start
+    span:
+    - body
+    - 0
+    - 1696
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR6v0567_TX_039-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 人人自治與世界和平
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6v0567_TX_040-juan-start
+    span:
+    - body
+    - 0
+    - 1757
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6v0567_TX_040-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 論佛法普及當設平易近人情之方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR6v0567_TX_040-mulu-2
+    span:
+    - body
+    - 1517
+    - 1517
+  label: （附）覆定如居士函
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6v0567_TX_041-juan-start
+    span:
+    - body
+    - 0
+    - 830
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6v0567_TX_041-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛法應如何普及今世
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6v0567_TX_041-mulu-2
+    span:
+    - body
+    - 50
+    - 50
+  label: 一　中國佛法不能普及之原因
+  type: mulu
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR6v0567_TX_041-mulu-3
+    span:
+    - body
+    - 198
+    - 198
+  label: 二　普及今後之方法
+  type: mulu
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6v0567_TX_042-juan-start
+    span:
+    - body
+    - 0
+    - 1243
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR6v0567_TX_042-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 信心
+  type: mulu
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6v0567_TX_043-juan-start
+    span:
+    - body
+    - 0
+    - 1816
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR6v0567_TX_043-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 學佛的下手方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6v0567_TX_044-juan-start
+    span:
+    - body
+    - 0
+    - 2114
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR6v0567_TX_044-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 清信士女之學佛以完成正信為要素
+  type: mulu
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR6v0567_TX_045-juan-start
+    span:
+    - body
+    - 0
+    - 1306
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR6v0567_TX_045-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 婦女學佛之規範
+  type: mulu
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR6v0567_TX_046-juan-start
+    span:
+    - body
+    - 0
+    - 3391
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR6v0567_TX_046-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 優婆夷教育與佛化家庭
+  type: mulu
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6v0567_TX_047-juan-start
+    span:
+    - body
+    - 0
+    - 870
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR6v0567_TX_047-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛學會應注重於學
+  type: mulu
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6v0567_TX_048-juan-start
+    span:
+    - body
+    - 0
+    - 2152
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR6v0567_TX_048-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛學會與實現佛化
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6v0567_TX_049-juan-start
+    span:
+    - body
+    - 0
+    - 420
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6v0567_TX_049-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 正信會員每日必修之常課
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6v0567_TX_049-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6v0567_TX_049-mulu-3
+    span:
+    - body
+    - 59
+    - 59
+  label: 甲　慈宗者
+  type: mulu
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR6v0567_TX_049-mulu-4
+    span:
+    - body
+    - 375
+    - 375
+  label: 乙　蓮宗者
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6v0567_TX_050-juan-start
+    span:
+    - body
+    - 0
+    - 3204
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6v0567_TX_050-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 世界佛教
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6v0567_TX_050-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 敬告亞洲佛教徒
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6v0567_TX_050-mulu-3
+    span:
+    - body
+    - 12
+    - 12
+  label: 一　緒言
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6v0567_TX_050-mulu-4
+    span:
+    - body
+    - 143
+    - 143
+  label: 二　唯佛教能救今世
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6v0567_TX_050-mulu-5
+    span:
+    - body
+    - 1355
+    - 1355
+  label: 三　其責任在亞洲佛教徒
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6v0567_TX_050-mulu-6
+    span:
+    - body
+    - 1517
+    - 1517
+  label: 四　亞洲佛教徒當如何通力合作耶
+  type: mulu
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR6v0567_TX_050-mulu-7
+    span:
+    - body
+    - 2815
+    - 2815
+  label: 五　如何進行以盡其責任
+  type: mulu
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6v0567_TX_051-juan-start
+    span:
+    - body
+    - 0
+    - 864
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR6v0567_TX_051-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 告全球的佛學同志
+  type: mulu
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6v0567_TX_052-juan-start
+    span:
+    - body
+    - 0
+    - 2780
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR6v0567_TX_052-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛教和平國際的提議
+  type: mulu
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6v0567_TX_053-juan-start
+    span:
+    - body
+    - 0
+    - 1854
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR6v0567_TX_053-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 佛教徒應參預中國和世界的新文化建設
+  type: mulu
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR6v0567_TX_054-juan-start
+    span:
+    - body
+    - 0
+    - 1028
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR6v0567_TX_054-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 告全世界佛教徒
+  type: mulu
+  level: 1
+hash: sha256:cb045806482811c96b75c119e82de07615ae3ee4efeea451f833e9083ae28578
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
