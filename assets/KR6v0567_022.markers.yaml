@@ -30,7 +30,6 @@ markers:
   - {type: punctuation, offset: 74, content: 。, id: KR6v0567_TX_022-bkkpn16}
   - {type: punctuation, offset: 84, content: ，, id: KR6v0567_TX_022-bkkpn17}
   - {type: punctuation, offset: 91, content: ，, id: KR6v0567_TX_022-bkkpn18}
-  - {type: substitution, offset: 95, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 101, content: 。, id: KR6v0567_TX_022-bkkpn19}
   - {type: punctuation, offset: 103, content: 、, id: KR6v0567_TX_022-bkkpn20}
   - {type: line-break, offset: 106, content: '', id: KR6v0567_TX_022-a137a06, ed: TX, 'n': a137a06}
@@ -46,7 +45,6 @@ markers:
   - {type: punctuation, offset: 158, content: 、, id: KR6v0567_TX_022-bkkpn27}
   - {type: line-break, offset: 166, content: '', id: KR6v0567_TX_022-a137a08, ed: TX, 'n': a137a08}
   - {type: punctuation, offset: 166, content: ，, id: KR6v0567_TX_022-bkkpn28}
-  - {type: substitution, offset: 170, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
   - {type: punctuation, offset: 172, content: ，, id: KR6v0567_TX_022-bkkpn29}
   - {type: punctuation, offset: 182, content: 、, id: KR6v0567_TX_022-bkkpn30}
   - {type: punctuation, offset: 188, content: ，, id: KR6v0567_TX_022-bkkpn31}
@@ -91,8 +89,7 @@ markers:
   - {type: line-break, offset: 416, content: '', id: KR6v0567_TX_022-a138a05, ed: TX, 'n': a138a05}
   - {type: xml-element, offset: 416, content: '', id: KR6v0567_TX_022-bkkxmlele3, name: byline, role: open, attrs: {'cb:type': other}}
   - {type: punctuation, offset: 416, content: （, id: KR6v0567_TX_022-bkkpn59}
-  - {type: substitution, offset: 420, original: 廿, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3861}}
   - {type: punctuation, offset: 426, content: ）, id: KR6v0567_TX_022-bkkpn60}
   - {type: xml-element, offset: 426, content: '', id: KR6v0567_TX_022-bkkxmlele4, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:acd92d9b35fa15d0098e163ac27d2a237e4faed6374c179d73d021c10194d9d7
+hash: sha256:968599a2829368b2fc0182dd299b6afc20ff2b94b3787e15540ffe0299999a2d

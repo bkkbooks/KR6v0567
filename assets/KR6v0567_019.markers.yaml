@@ -128,7 +128,6 @@ markers:
   - {type: xml-element, offset: 63, content: '', id: pTX18pa132a0201_end, name: p, role: close, attrs: {'cb:type': pre, 'xml:id': pTX18pa132a0201}}
   - {type: line-break, offset: 63, content: '', id: KR6v0567_TX_019-a132a13, ed: TX, 'n': a132a13}
   - {type: xml-element, offset: 63, content: '', id: pTX18pa132a1301, name: p, role: open, attrs: {'xml:id': pTX18pa132a1301, style: 'margin-left:0em;text-indent:2em'}}
-  - {type: substitution, offset: 65, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: punctuation, offset: 71, content: 「, id: KR6v0567_TX_019-bkkpn37}
   - {type: punctuation, offset: 78, content: 」, id: KR6v0567_TX_019-bkkpn38}
   - {type: punctuation, offset: 78, content: ；, id: KR6v0567_TX_019-bkkpn39}
@@ -141,4 +140,4 @@ markers:
   - {type: punctuation, offset: 91, content: 、, id: KR6v0567_TX_019-bkkpn43}
   - {type: xml-element, offset: 93, content: '', id: KR6v0567_TX_019-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': author}}
   back: []
-hash: sha256:e6117a0b1eb6361d15e845aad7560109c0e42dea63718e5d10f5a8367f715a76
+hash: sha256:d62a950e2a72dbbff5a09d8e89efcf7fec80fbf597eb07aea9cbeacbe00bd6b8

@@ -166,7 +166,6 @@ markers:
   - {type: punctuation, offset: 220, content: ，, id: KR6v0567_TX_049-bkkpn50}
   - {type: punctuation, offset: 227, content: ，, id: KR6v0567_TX_049-bkkpn51}
   - {type: punctuation, offset: 234, content: 。, id: KR6v0567_TX_049-bkkpn52}
-  - {type: substitution, offset: 239, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 241, content: ，, id: KR6v0567_TX_049-bkkpn53}
   - {type: xml-element, offset: 243, content: '', id: pTX18pa281a0101_end, name: p, role: close, attrs: {'xml:id': pTX18pa281a0101, style: 'margin-left:0em;text-indent:0em'}}
   - {type: xml-element, offset: 243, content: '', id: itemTX18pa281a0101_end, name: item, role: close, attrs: {'xml:id': itemTX18pa281a0101}}
@@ -226,7 +225,6 @@ markers:
   - {type: xml-element, offset: 355, content: '', id: itemTX18pa281a0801, name: item, role: open, attrs: {'xml:id': itemTX18pa281a0801}}
   - {type: xml-element, offset: 355, content: '', id: pTX18pa281a0801, name: p, role: open, attrs: {'xml:id': pTX18pa281a0801, style: 'margin-left:0em;text-indent:0em'}}
   - {type: punctuation, offset: 361, content: ，, id: KR6v0567_TX_049-bkkpn74}
-  - {type: substitution, offset: 364, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 365, content: ，, id: KR6v0567_TX_049-bkkpn75}
   - {type: punctuation, offset: 369, content: ，, id: KR6v0567_TX_049-bkkpn76}
   - {type: punctuation, offset: 373, content: 。, id: KR6v0567_TX_049-bkkpn77}
@@ -254,4 +252,4 @@ markers:
   - {type: punctuation, offset: 420, content: ）, id: KR6v0567_TX_049-bkkpn87}
   - {type: xml-element, offset: 420, content: '', id: KR6v0567_TX_049-bkkxmlele16, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:4faf2fb2d68736a02d393b421e59e4be1e130ddce4d3e6cabab4fe786488e141
+hash: sha256:2d916231787e67023409581e67365232b7ec20650cef4037652bd5008d2280c8
