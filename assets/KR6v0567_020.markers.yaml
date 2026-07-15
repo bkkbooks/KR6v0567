@@ -49,6 +49,7 @@ markers:
   - {type: line-break, offset: 102, content: '', id: KR6v0567_TX_020-a133a07, ed: TX, 'n': a133a07}
   - {type: xml-element, offset: 102, content: '', id: pTX18pa133a0701, name: p, role: open, attrs: {'xml:id': pTX18pa133a0701, style: 'margin-left:0em;text-indent:2em'}}
   - {type: punctuation, offset: 103, content: 、, id: KR6v0567_TX_020-bkkpn27}
+  - {type: substitution, offset: 104, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16303}}
   - {type: punctuation, offset: 109, content: 、, id: KR6v0567_TX_020-bkkpn28}
   - {type: punctuation, offset: 113, content: ，, id: KR6v0567_TX_020-bkkpn29}
   - {type: punctuation, offset: 115, content: 、, id: KR6v0567_TX_020-bkkpn30}
@@ -78,6 +79,7 @@ markers:
   - {type: xml-element, offset: 192, content: '', id: KR6v0567_TX_020-bkkxmlele4, name: byline, role: close, attrs: {'cb:type': other}}
   - {type: xml-element, offset: 192, content: '', id: pTX18pa133a1103, name: p, role: open, attrs: {'xml:id': pTX18pa133a1103, style: 'margin-left:6em;text-indent:-4em', 'cb:place': inline}}
   - {type: punctuation, offset: 192, content: （, id: KR6v0567_TX_020-bkkpn46}
+  - {type: substitution, offset: 193, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
   - {type: punctuation, offset: 194, content: ）, id: KR6v0567_TX_020-bkkpn47}
   - {type: punctuation, offset: 196, content: 「, id: KR6v0567_TX_020-bkkpn48}
   - {type: punctuation, offset: 201, content: 」, id: KR6v0567_TX_020-bkkpn49}
@@ -85,4 +87,4 @@ markers:
   - {type: punctuation, offset: 215, content: 。, id: KR6v0567_TX_020-bkkpn51}
   - {type: xml-element, offset: 215, content: '', id: pTX18pa133a1103_end, name: p, role: close, attrs: {'xml:id': pTX18pa133a1103, style: 'margin-left:6em;text-indent:-4em', 'cb:place': inline}}
   back: []
-hash: sha256:25408a041afc06ee2a58d3661ac992ddc9b947d52cf85909514ed92a2ba476d9
+hash: sha256:35fd52eabe5615b2a1add1e09fbee6924ada9435a79f5ce2328fec6087de7d20
